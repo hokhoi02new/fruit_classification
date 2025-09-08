@@ -1,0 +1,9 @@
++ Lật ngẫu nhiên (ngang và dọc)
+
++ Điều chỉnh độ tương phản ngẫu nhiên
+
++ Xoay ngẫu nhiên (-1 đến 0,5 độ)
+
++ Cắt xén ngẫu nhiên (với kích thước 160x160)
+
++ Thêm nhiễu Gaussian với độ lệch chuẩn là 0,2
